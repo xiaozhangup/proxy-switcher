@@ -13,7 +13,7 @@ Any contributions are very welcome (e.g. new features, translations, bug fixes e
 
 I recommend using the gnome extensions site but this is not always up to date. To get the latest version, do
 
-    git clone https://github.com/tomflannaghan/proxy-switcher.git
+    git clone https://github.com/xiaozhangup/proxy-switcher.git
     cd proxy-switcher
     make build
     make install
