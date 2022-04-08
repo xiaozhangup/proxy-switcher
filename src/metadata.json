@@ -1,7 +1,7 @@
 {
-    "uuid": "ProxySwitcher@flannaghan.com",
+    "uuid": "ProxySwitcher@xiaozhangup.com",
     "name": "Proxy Switcher",
-    "description": "Switches between the system proxy settings profiles defined in Network Settings.",
-    "shell-version": ["40", "41"],
-    "url": "https://github.com/tomflannaghan/proxy-switcher"
+    "description": "(A fork from https://github.com/tomflannaghan/proxy-switcher) Switches between the system proxy settings profiles defined in Network Settings.",
+    "shell-version": ["40", "41", "42"],
+    "url": "https://github.com/xiaozhangup/proxy-switcher"
 }
